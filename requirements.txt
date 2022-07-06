@@ -13,7 +13,7 @@ fake-useragent==0.1.11
 future==0.17.1
 idna==2.8
 jsonfield==2.0.2
-lxml==4.4.1
+lxml==4.9.1
 oauthlib==3.1.0
 parse==1.12.1
 praw==6.3.1
